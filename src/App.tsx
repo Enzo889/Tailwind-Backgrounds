@@ -97,7 +97,7 @@ function App() {
               </p>
               <div className="mt-10 flex gap-4">
                 <a
-                  href="https://github.com/ibelick/background-snippets"
+                  href="https://github.com/Enzo889/Tailwind-Backgrounds"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center"
